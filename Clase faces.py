@@ -1,6 +1,6 @@
 #Clase faces
 import sys
-import json
+import json               JOSUE CRACK
 import requests
 import cognitive_face as CF
 from PIL import Image, ImageDraw, ImageFont

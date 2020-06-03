@@ -32,3 +32,6 @@ def emotions(picture):
     print(analysis)
 if __name__ == "_main__":
     emotions(sys.argv[1])
+    
+    
+    MHGCJGCYCJYCGCYCHGCJYXCYFCFCXFXFXGFXHFX PABLIX ES FRIKI PORQUE JUEGA POKEMON GO
